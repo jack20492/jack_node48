@@ -1,6 +1,3 @@
--- Tạo cơ sở dữ liệu
-CREATE DATABASE FoodApp;
-USE FoodApp;
 
 -- Tạo bảng người dùng
 CREATE TABLE users (
